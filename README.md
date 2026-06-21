@@ -1,5 +1,5 @@
 # Menu-System
-A basic main mnue and settings system.
+A basic main menu and settings system.
 
 ## Technologies
 - Unreal Engine 5
