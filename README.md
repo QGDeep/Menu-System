@@ -1,2 +1,8 @@
 # Menu-System
-A Main Menu and Settings System created in Unreal Engine 5.
+A basic main mnue and settings system.
+
+## Technologies
+- Unreal Engine 5
+- C++
+- Blueprints
+- UMG
